@@ -1,0 +1,3 @@
+tools/ghost-miner/ghost-miner
+tools/ghost-miner/*.o
+*.log
